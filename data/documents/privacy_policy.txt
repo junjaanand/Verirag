@@ -1,0 +1,18 @@
+ACME CORPORATION PRIVACY POLICY
+Last Updated: February 15, 2024
+Document Classification: Public
+
+Section 5: Data Retention
+
+5.1 Retention Period
+Personal data collected by ACME Corporation will be retained for a maximum period of 3 years
+from the date of last interaction with the data subject. After this period, data will be 
+anonymized or securely deleted.
+
+5.2 Exceptions
+Certain data may be retained longer if required by specific contractual obligations, provided
+that the data subject is informed of the extended retention period.
+
+Section 6: Data Subject Rights
+Individuals may request access to, correction of, or deletion of their personal data at any time
+by contacting our Data Protection Officer at privacy@acmecorp.com.

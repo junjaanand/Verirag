@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "question": "What is the annual leave policy for full-time employees?",
+        "expected_answer": "Full-time employees are entitled to 24 days of paid annual leave per year, accrued at 2 days per month.",
+        "category": "direct_factual"
+    },
+    {
+        "id": 2,
+        "question": "What is the company's remote work policy?",
+        "expected_answer": "Employees can work remotely up to 3 days per week with manager approval. Fully remote arrangements require VP-level approval.",
+        "category": "direct_factual"
+    },
+    {
+        "id": 3,
+        "question": "What are the penalties for late payment under the vendor contract?",
+        "expected_answer": "Late payments incur a 1.5% monthly interest charge after a 30-day grace period.",
+        "category": "direct_factual"
+    },
+    {
+        "id": 4,
+        "question": "How do the employee benefits compare between the 2023 and 2024 handbook versions?",
+        "expected_answer": "The 2024 handbook increased dental coverage from 80% to 100% and added mental health days (5 per year), which were not in the 2023 version.",
+        "category": "cross_document"
+    },
+    {
+        "id": 5,
+        "question": "What is the total liability exposure combining all active contracts?",
+        "expected_answer": "The total liability across the vendor contract ($500K), service agreement ($1.2M), and lease ($300K) is $2M.",
+        "category": "cross_document"
+    },
+    {
+        "id": 6,
+        "question": "What training programs are available and what is their budget allocation?",
+        "expected_answer": "Technical skills training ($50K), leadership development ($30K), and compliance training ($20K) are available with a total budget of $100K.",
+        "category": "cross_document"
+    },
+    {
+        "id": 7,
+        "question": "What is the termination notice period required?",
+        "expected_answer": "CONTRADICTORY: The employee handbook states 30 days notice, but the employment contract template specifies 60 days notice for senior positions.",
+        "category": "contradictory"
+    },
+    {
+        "id": 8,
+        "question": "What is the company's data retention period?",
+        "expected_answer": "CONTRADICTORY: The privacy policy states 3 years, but the compliance document references a 5-year retention requirement for financial records.",
+        "category": "contradictory"
+    },
+    {
+        "id": 9,
+        "question": "What is the CEO's favorite color?",
+        "expected_answer": "UNANSWERABLE",
+        "category": "unanswerable"
+    },
+    {
+        "id": 10,
+        "question": "What were the company's Q3 2025 revenue figures?",
+        "expected_answer": "UNANSWERABLE",
+        "category": "unanswerable"
+    },
+    {
+        "id": 11,
+        "question": "What is the expense reimbursement process described in the scanned policy document?",
+        "expected_answer": "Employees must submit expense reports within 14 business days with receipts. Reimbursement is processed within 5 business days of approval.",
+        "category": "ocr_degraded"
+    },
+    {
+        "id": 12,
+        "question": "Tell me about the company policies",
+        "expected_answer": "AMBIGUOUS — needs clarification on which specific policy (leave, remote work, expenses, data, etc.)",
+        "category": "ambiguous"
+    }
+]

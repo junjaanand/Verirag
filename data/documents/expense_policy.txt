@@ -1,0 +1,24 @@
+EXPENSE REIMBURSEMENT POLICY — ACME CORPORATION
+Doc Ref: FIN-POL-2024-003      |      Classification: Internal
+
+>>> SECTION 1: SUBMISSION REQUIREMENTS <<<
+
+All employees must submit expense reports within 14 business days
+of incurring the expense. Each report MUST include:
+
+   * Original receipts (photographs accepted)
+   * Business justification for each expense
+   * Appropriate cost center code
+   * Manager pre-approval for expenses exceeding $500
+
+>>> SECTION 2: PROCESSING TIMELINE <<<
+
+Reimbursement is processed within 5 business days of approval.
+Payment is made via direct deposit to the employee's registered bank account.
+
+>>> SECTION 3: SPENDING LIMITS <<<
+
+   Meals:           $75/person/day (domestic)   $100/person/day (international)
+   Transportation:  Economy class for flights under 6 hours
+   Accommodation:   Up to $250/night (domestic)   $350/night (international)
+   Client Entertainment: Up to $200/person with Director approval

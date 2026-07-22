@@ -1,0 +1,36 @@
+# Core
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
+
+# Document Processing
+PyMuPDF
+pdfplumber
+pytesseract
+Pillow
+
+# Embeddings & Vector DB
+sentence-transformers
+chromadb
+rank-bm25
+
+# Re-ranking & NLI
+transformers
+torch
+accelerate
+
+# LLM
+groq
+google-generativeai
+
+# Web Search
+tavily-python
+
+# Evaluation
+# ragas  # Install separately if needed
+
+# Utilities
+tqdm
+loguru

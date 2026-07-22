@@ -1,0 +1,14 @@
+SERVICE LEVEL AGREEMENT (SLA)
+Between ACME Corporation and CloudHost Partners
+Agreement Reference: SLA-2024-112
+Maximum Liability: $1,200,000
+
+Service Availability Target: 99.9% uptime
+Response Time for Critical Issues: 15 minutes
+Resolution Time for Critical Issues: 4 hours
+
+Escalation Matrix:
+Level 1: Support Team (0-30 minutes)
+Level 2: Engineering Team (30 min - 2 hours)
+Level 3: VP of Engineering (2-4 hours)
+Level 4: CTO (4+ hours)

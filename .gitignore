@@ -1,0 +1,26 @@
+# Environment & API keys
+.env
+*.env
+
+# Python Virtual Environment
+venv/
+ENV/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ChromaDB & Generated Data
+data/chroma_db/
+data/pipeline_logs.jsonl
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp

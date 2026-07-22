@@ -1,0 +1,23 @@
+VENDOR SERVICE AGREEMENT
+Between: ACME Corporation ("Client") and TechSupply Inc. ("Vendor")
+Contract ID: VS-2024-0847
+Effective Date: March 1, 2024
+
+ARTICLE 3: FINANCIAL TERMS
+
+3.1 Contract Value
+Total contract value: $500,000 over a 24-month period.
+Monthly payments: $20,833.33 due on the 15th of each month.
+
+3.2 Late Payment Penalties
+Late payments incur a 1.5% monthly interest charge after a 30-day grace period.
+Payments more than 90 days overdue may result in service suspension.
+
+3.3 Liability Cap
+The total liability of the Vendor under this agreement shall not exceed $500,000.
+
+ARTICLE 5: DATA HANDLING
+
+5.1 Data Retention
+All client data must be retained for a minimum of 5 years following the termination of this agreement,
+in compliance with financial regulatory requirements.

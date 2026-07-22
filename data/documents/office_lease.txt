@@ -1,0 +1,10 @@
+COMMERCIAL LEASE AGREEMENT
+Property: Suite 400, 123 Business Park Drive, Tech City, CA 94000
+Tenant: ACME Corporation
+Landlord: Premier Properties LLC
+Lease Value: $300,000/year
+Lease Term: January 1, 2024 — December 31, 2026
+
+Monthly Rent: $25,000
+Security Deposit: $50,000
+Annual Escalation: 3%
