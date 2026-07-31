@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 Overview & Key Problem Addressed
+🌟 Overview & Key Problem Addressed
 
 1) Traditional RAG architectures suffer from critical failure modes when operating on real-world messy documents:
 1. **Garbage In, Garbage Out**: Low-quality OCR or noisy PDF extraction poisons the vector store with junk tokens.
