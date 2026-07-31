@@ -1,6 +1,6 @@
 # 🛡️ VeriRAG: Self-Correcting RAG Pipeline for Messy Documents
 
-> **A trustworthy, self-correcting Retrieval-Augmented Generation (RAG) system that handles noisy, unstructured documents (scanned PDFs, OCR text, mixed formats) with dynamic quality scoring, cross-document contradiction detection, adaptive re-querying, and calibrated confidence badges.**
+> A trustworthy, self-correcting Retrieval-Augmented Generation (RAG) system that handles noisy, unstructured documents (scanned PDFs, OCR text, mixed formats) with dynamic quality scoring, cross-document contradiction detection, adaptive re-querying, and calibrated confidence badges.**
 
 ---
 
