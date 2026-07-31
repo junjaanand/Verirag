@@ -6,7 +6,7 @@
 
 ## 🌟 Overview & Key Problem Addressed
 
-Traditional RAG architectures suffer from critical failure modes when operating on real-world messy documents:
+1) Traditional RAG architectures suffer from critical failure modes when operating on real-world messy documents:
 1. **Garbage In, Garbage Out**: Low-quality OCR or noisy PDF extraction poisons the vector store with junk tokens.
 2. **Blind Faith Generation**: LLMs generate confident answers even when retrieved context is irrelevant or insufficient.
 3. **Unchecked Contradictions**: When conflicting information exists across documents (e.g. Contract vs. Policy), standard RAG outputs hallucinations or arbitrary picks.
